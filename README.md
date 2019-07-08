@@ -4,6 +4,7 @@ However, this repository add more support from engineering side:
 - Junit added as a way (instead of main method) to represent client
 - Maven support is added for the ease of build
 - Some incorrect answers are fixed.
+- Some correct answers are improved, where I expec code is cleaner and easier to read, while correctness is still there.
 
 # Algorithms
 Solutions to the exercises of the Algorithms book by Robert Sedgewick and Kevin Wayne (4th editon).
